@@ -2,7 +2,10 @@
 
 a custom FragmentTabHost:
 
+![1.png](https://github.com/juexingzhe/TestFragmentTabHost/blob/master/png/1.png)
 
+![2.png](https://github.com/juexingzhe/TestFragmentTabHost/blob/master/png/2.png)
+*****
 add in xml
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -43,4 +46,4 @@ fragmentTabHost = (MyFragmentTabLayout) findViewById(R.id.tab_layout);
 
 ok, that is all!
 
-for more detail, see http://www.jianshu.com/p/bb44cbf15b11
+for more detail, see [一行代码实现底部导航栏TabLayout](http://www.jianshu.com/p/bb44cbf15b11)
